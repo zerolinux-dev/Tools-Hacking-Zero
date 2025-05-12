@@ -42,3 +42,45 @@ pkg install git
 git clone https://github.com/zerolinux-dev/Tools-Hacking-Zero.git
 cd Tools-Hacking-Zero
 bash zerohacking.sh
+
+⚡️ The dark path is now open. Hacking commences...
+
+
+---
+
+⚠️ WARNING (for those with weak hearts)
+
+We are NOT responsible for any chaos, destruction, or mayhem caused by these tools.
+Use them at your own risk. This is for ethical and educational purposes only...
+Misuse will summon curses and consequences you can’t escape. 😈
+
+
+---
+
+🌑 Badges of the Dark Legion
+
+
+
+
+
+
+---
+
+📲 Scan to Install (The Quick Summon)
+
+
+
+Scan the QR code above to instantly summon the dark powers to your device.
+
+
+---
+
+🔥 Join the Legion of Shadows
+
+Stay tuned for more dark and destructive tools from ZeroLinux.
+Star this repo ⭐ if you're ready to enter the Legion of Hackers.
+
+
+---
+
+Hack smart. Hack safe. Hack like a demon. 💻🔥👹
