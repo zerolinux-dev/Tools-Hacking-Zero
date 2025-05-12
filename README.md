@@ -1,30 +1,44 @@
-Author: ZeroLinux 
-### Version 4
+# 👾 **ZeroLinux — Dark Hacking Tools** 🔥😈
 
-(![image](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
+![Hacking Tools](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
 
-# Hacking Tools
-Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
+> **Version 4** — From the Abyss of **ZeroLinux**  
+> _"Embrace the dark side... and let chaos reign!"_
 
-• Powerful DDOS attack tool!!
+---
 
-# Operating System Requirements
-works on any of the following operating systems:
+## 🩸 About the Tools
 
-• Android (Using the Termux App)
+Awaken the darkness within. These tools are forged from the very fires of the underworld to help you in:
 
-• Linux (Debian Based Systems)
+- ⚔️ **Ethical Hacking** (or something close to it...)
+- 👁️‍🗨️ **Social Media Infiltration**
+- ☎️ **Phone Information Extraction**
+- 📧 **Gmail Assault**
+- 📱 **Phone Number Attack**
+- 🔍 **User Discovery**
+- 📸 **Webcam Hijack**
 
-• Unix
+**💥 BONUS:** A **Devastating DDoS Attack** tool to unleash havoc like you've never seen before!  
 
-# How to Install
-* Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/zerolinux-dev/Tools-Hacking-Zero.git>`
-* `<cd Tools-Hacking-Zero>`
-* `<zerohacking.sh>`
+---
 
+## 💀 System Requirements
 
-# Warning
+Summon this dark power on:
 
-We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
+- **Android** (via Termux) 📱  
+- **Linux** (Debian-Based Systems) 🐧  
+- **Unix** Systems ☠️  
 
+---
+
+## ⚙️ Installation Ritual
+
+Unlock the portal of chaos by opening your terminal and performing the following incantations:
+
+```bash
+pkg install git
+git clone https://github.com/zerolinux-dev/Tools-Hacking-Zero.git
+cd Tools-Hacking-Zero
+bash zerohacking.sh
