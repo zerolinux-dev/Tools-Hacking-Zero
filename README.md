@@ -1,8 +1,6 @@
 Author: ZeroLinux 
 ### Version 4
 
-https://drive.google.com/file/d/17gkcec5XV_GGW9T4A48DTkcREtLv9MzQ/view?usp=drivesdk/alhacking.png
-
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
