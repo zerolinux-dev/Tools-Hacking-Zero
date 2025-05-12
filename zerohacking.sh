@@ -7,10 +7,10 @@ echo -e '\033[31;40;1m
    ███╔╝ █████╗  ██████╔╝██║   ██║
   ███╔╝  ██╔══╝  ██╔══██╗██║   ██║
  ███████╗███████╗██║  ██║╚██████╔╝
- ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ "1
-  Coded by ZeroLinux 
-  github: https://github.com/zerolinux-dev/Tools-Hacking-Zero.git
-\033[33;4mVersion:\033[0m 1            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m ZeroLinux 
+ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ "7x
+Coded by ZeroLinux 
+github:https://github.com/zerolinux-dev
+\033[33;4mVersion:\033[0m 01            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m ZeroLinux 
 				
 \e[37m[1]\e[36m Phishing Tool		 \e[37m[2]\e[36m WebCam Hack
 \e[37m[3]\e[36m Subscan	                 \e[37m[4]\e[36m Gmail Bomber
