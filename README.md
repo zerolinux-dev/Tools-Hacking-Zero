@@ -1,7 +1,7 @@
 Author: ZeroLinux 
 ### Version 4
 
-(![image](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
+[image](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
