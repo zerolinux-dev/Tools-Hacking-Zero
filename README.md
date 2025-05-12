@@ -1,6 +1,8 @@
 Author: ZeroLinux 
 ### Version 4
-https://i.postimg.cc/2ysc7vY7/alhacking.jpg
+
+(![image](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
+
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
 
@@ -19,11 +21,10 @@ works on any of the following operating systems:
 * Open the terminal and type `<pkg install git>`
 * Then`<git clone https://github.com/zerolinux-dev/Tools-Hacking-Zero.git>`
 * `<cd Tools-Hacking-Zero>`
-* `<zerohacking.sh>`
+* `<bash alhack.sh>`
 
 
 # Warning
 
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
-
 
