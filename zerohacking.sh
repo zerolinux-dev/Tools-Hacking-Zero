@@ -18,8 +18,7 @@ echo -e '\033[31;40;1m
 \e[37m[7]\e[36m Ip Info	                  \e[37m[8]\e[36m dorks-eye
 \e[37m[9]\e[36m HackerPro                     \e[37m[10]\e[36m RED_HAWK
 \e[37m[11]\e[36m VirusCrafter                 \e[37m[12]\e[36m Info-Site
-\e[37m[13]\e[36m BadMod	                  \e[37m[14]\e[36m Facebash
-\e[37m[15]\e[36m DARKARMY                     \e[37m[16]\e[36m AUTO-IP-CHANGER
+\e[37m[13]\e[36m DARKARMY                     \e[37m[14]\e[36m AUTO-IP-CHANGER
 
 '
 
@@ -172,32 +171,6 @@ clear
 echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
 sleep 3
 cd Tools
-sudo apt-get update
-sudo apt-get install php
-sudo apt-get install php-curl
-git clone https://github.com/MrSqar-Ye/BadMod.git
-cd BadMod
-chmod u+x INSTALL
-chmod u+x BadMod.php
-sudo php BadMod.php
-
-elif [[ $islem == 14 || $islem == 014 ]]; then
-clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
-sleep 3
-cd Tools
-git clone https://github.com/fu8uk1/facebash
-cd facebash
-bash install.sh
-chmod +x facebash.sh
-tor
-sudo ./facebash.sh
-
-elif [[ $islem == 15 || $islem == 015 ]]; then
-clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
-sleep 3
-cd Tools
 pkg install git
 pkg install python2
 apt install git
@@ -209,7 +182,7 @@ cd DARKARMY
 chmod +x darkarmy.py
 python2 darkarmy.py
 
-elif [[ $islem == 16 || $islem == 016 ]]; then
+elif [[ $islem == 14 || $islem == 014 ]]; then
 clear
 echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
 echo -e "\033[47;3;35m Ky tool do tju kerkoje te jeni (ROOT)\033[0m"
