@@ -199,7 +199,11 @@ echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
 sleep 3
 cd Tools
 pkg install git
+pkg install python2
+apt install git
+apt install python2
 pkg install python
+apt install payton 
 git clone https://github.com/0x4ritra/DARKARMY.git
 cd DARKARMY
 chmod +x darkarmy.py
@@ -215,8 +219,6 @@ sudo apt-get install tor
 pip3 install requests
 git clone https://github.com/FDX100/Auto_Tor_IP_changer.git
 cd Auto_Tor_IP_changer
-echo -e "\033[47;3;35m shkoni te shfletuesi juaj / ndryshoni përfaqësuesin (sock proxy) në 127.0.0.1:9050\033[0m"
-sleep 8
 python3 install.py
 aut
 
