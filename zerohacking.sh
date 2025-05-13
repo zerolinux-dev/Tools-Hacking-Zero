@@ -42,7 +42,7 @@ apt upgrade -y
 clear
 echo -e "\033[47;3;35m Përditësimi i plotë...\033[0m"
 sleep 3
-bash alhack.sh
+bash zerohacking.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
