@@ -2,7 +2,7 @@
 
 ![Hacking Tools](https://i.postimg.cc/yNg4XbfC/alhacking.jpg)
 
-> **Version 4** — From the Abyss of **ZeroLinux**  
+> **Version 01** — From the Abyss of **ZeroLinux**  
 > _"Embrace the dark side... and let chaos reign!"_
 
 ---
