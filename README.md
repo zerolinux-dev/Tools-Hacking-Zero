@@ -1,6 +1,6 @@
 # 👾 **ZeroLinux — Dark Hacking Tools** 🔥😈
 
-![Hacking Tools](https://i.postimg.cc/2ysc7vY7/alhacking.jpg)
+![Hacking Tools](https://i.postimg.cc/yNg4XbfC/alhacking.jpg)
 
 > **Version 4** — From the Abyss of **ZeroLinux**  
 > _"Embrace the dark side... and let chaos reign!"_
